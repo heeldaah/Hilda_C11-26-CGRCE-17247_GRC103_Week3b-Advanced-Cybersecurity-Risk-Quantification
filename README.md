@@ -189,9 +189,9 @@ The repository contains the following deliverables:
 
 | File | Description |
 |---|---|
-| `01_Risk_Quantification_Workbook.xlsx(download)` | Calculation workbook containing assumptions, risk calculations, control analysis, residual risk, treatment plan and dashboard visualisations. |
-| `02_Risk_Assessment_Executive_Report.docx` | Written assessment explaining the scenario, methodology, financial exposure, control evaluation, recommendations and limitations. |
-| `03_Executive_Dashboard.pdf` | Management-facing dashboard summarising key risk and investment findings. |
+| [01_Risk_Quantification_Workbook.xlsx_Download](./01_Risk_Quantification_Workbook.xlsx) | Excel workbook containing assumptions, risk calculations, control analysis, residual risk, treatment plan and dashboard visualisations. |
+| [02_Risk_Assessment_Executive_Report.docx](./02_Risk_Assessment_Executive_Report.docx) | Written assessment covering the scenario, methodology, financial exposure, control evaluation, recommendations and limitations. |
+| [03_Executive_Dashboard.pdf](./03_Executive_Dashboard.pdf) | Management-facing dashboard summarising key risk and investment findings. |
 
 ## 12. Conclusion
 
