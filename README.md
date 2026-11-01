@@ -6,7 +6,7 @@
 
 # Lab 3b: Advanced Cybersecurity Risk Quantification and Control Investment Analysis
 
-# SecureBank Financial: Advanced Cybersecurity Risk Quantification
+### SecureBank Financial: Advanced Cybersecurity Risk Quantification
 
 ---
 
